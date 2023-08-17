@@ -1,0 +1,9 @@
+-number of followers and following of each library, hashtag and plot
+ 
+-plot the graph of libraries following each other and analyse
+
+-compare social media followers with visitors
+
+
+
+doubtful:-number of posts in given timeframe tagging that library - instead, get last 20 posts tagging that library
